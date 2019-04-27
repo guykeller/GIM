@@ -1,8 +1,8 @@
 {
-    "IsEncrypted": false,
+  "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=gimstorageaccount;AccountKey=fknjxAku7f6mySj7OAOwQX79C+ehLsr9fExMaVL8NjXQL1/OvVwgjEJLwn45ajdBx5FVOkj6DvOq1z78duUpHg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=gimstorageaccount;AccountKey=fknjxAku7f6mySj7OAOwQX79C+ehLsr9fExMaVL8NjXQL1/OvVwgjEJLwn45ajdBx5FVOkj6DvOq1z78duUpHg==;EndpointSuffix=core.windows.net",
     "eventHubConnectionString": "Endpoint=sb://gimeventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9+Prc7wS6nYRghiYr7qRB8pskg645tI1/HZGHVIj/kw=",
     "signalRConnectionString": "Endpoint=https://signalrinstance.service.signalr.net;AccessKey=Oh2wwhxdRKRm8CoGxlQxhYodslzkMKchg8JnrIln3p4=;Version=1.0;"
   }

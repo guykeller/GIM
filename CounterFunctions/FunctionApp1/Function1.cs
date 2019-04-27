@@ -14,7 +14,7 @@ using Newtonsoft.Json;
 
 namespace GIMFunctions
 {
-    public static class Function1
+    public static class Function1 
     {
         private const string c_eventHubConnectionString = "eventHubConnectionString";
         private const string c_tableName = "GIMTable";
@@ -33,7 +33,7 @@ namespace GIMFunctions
             {
                 ConnectionRequest connectionRequest = await ExtractContent<ConnectionRequest>(request);
                 log.LogInformation($"Negotiating connection for user: <{connectionRequest.UserId}>.");
-
+                log.LogInformation(Environment.GetEnvironmentVariable(c_signalRConnectionString));
                 string clientHubUrl = SignalR.GetClientHubUrl(c_eventHubName);
                 string accessToken = SignalR.GenerateAccessToken(clientHubUrl, connectionRequest.UserId);
                 return new SignalRConnectionInfo { AccessToken = accessToken, Url = clientHubUrl };
