@@ -1,0 +1,20 @@
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csprojAssemblyReference.cache
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\Moshe\OneDrive - mail.tau.ac.il\University\studies\year3\סמסטר ב\IOT\iot-course-master\iot-course-master\01 Mobile App\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\iot-course-master\Advanced\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\iot-course-master\Advanced\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\iot-course-master\Advanced\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.pdb
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.dll
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.pdb
+C:\iot-course-master\Advanced\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csprojAssemblyReference.cache
